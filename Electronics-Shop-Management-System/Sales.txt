@@ -1,0 +1,21 @@
+Sr No.  Product Name        Price   Brand       Stock   Warranty    Discount(%)
+1       Refrigerator        50000   DAWLANCE    1       2 years     15         
+2       Air Conditioner     80000   GREE        1       1 years     20         
+3       Washing Machine     25000   HAIER       1       2 years     15         
+4       Dryer Machine       15000   HAIER       1       3 years     20         
+5       Ceiling Fan         8000    NATIONAL    1       5 years     20         
+6       Electric Fan        5000    NATIONAL    1       5 years     34         
+7       Iron                8000    ORIENT      1       2 years     15         
+8       Toaster             7000    WAVES       1       4 years     30         
+9       Dish Washer         30000   PEL         1       2 years     12         
+10      Roti Maker          5000    DAWLANCE    1       3 years     10         
+11      Power Bank          6000    INFINIX     1       2 years     10         
+12      Fitness Tracker     5000    APPLE       2       1 years     10         
+13      Smart Thermostat    7000    DAWLANCE    1       2 years     8          
+14      External HDD        5500    GREE        1       2 years     12         
+15      DVD Player          7000    SUPER ASIA  1       2 years     10         
+16      Microwave Oven      12000   LG          1       2 years     15         
+17      Electric Kettle     3000    PHILIPS     1       1 years     10         
+18      Smartphone          50000   SAMSUNG     1       1 years     10         
+19      Tablet              40000   LENOVO      1       1 years     12         
+20      Smart Watch         15000   APPLE       1       1 years     8          

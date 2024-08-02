@@ -1,0 +1,3 @@
+C:/Users/azamm/CLionProjects/Electronics-Shop-Management-System/cmake-build-debug/CMakeFiles/Electronics_Shop_Management_System.dir
+C:/Users/azamm/CLionProjects/Electronics-Shop-Management-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azamm/CLionProjects/Electronics-Shop-Management-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,31 @@
+Sr No.  Product Name        Price   Brand       Stock   Warranty    Discount(%)
+1       Refrigerator        50000   DAWLANCE    12      2 years     15         
+2       Air Conditioner     80000   GREE        10      1 years     20         
+3       Microwave Oven      15000   WAVES       15      3 years     25         
+4       Washing Machine     25000   HAIER       20      2 years     15         
+5       Dryer Machine       15000   HAIER       15      3 years     20         
+6       Television          15000   NOBEL       30      5 years     12         
+7       Air Cooler          20000   NATIONAL    12      2 years     15         
+8       Ceiling Fan         8000    NATIONAL    25      5 years     20         
+9       Electric Fan        5000    NATIONAL    40      5 years     34         
+10      Iron                8000    ORIENT      50      2 years     15         
+11      Toaster             7000    WAVES       30      4 years     30         
+12      Dish Washer         30000   PEL         15      2 years     12         
+13      Roti Maker          5000    DAWLANCE    20      3 years     10         
+14      Coffee Machine      10000   PEL         12      2 years     15         
+15      Blender             6000    NATIONAL    25      4 years     20         
+16      Charger             5500    HUAWEI      20      1 years     10         
+17      Hair Dryer          4500    DELL        10      2 years     30         
+18      Electric Kettle     6500    IZONE       5       2 years     10         
+19      Headphones          1500    INFINIX     12      1 years     13         
+20      Gaming Console      4000    SAMSUNG     9       2 years     15         
+21      Soundbar            9000    SAMSUNG     8       1 years     11         
+22      Electric Toothbrush 20000   NATIONAL    6       1 years     10         
+23      Power Bank          4000    PELL        4       3 years     25         
+24      Projector           8000    SAMSUNG     6       1 years     7          
+25      Drone               30000   APPLE       5       2 years     12         
+26      Smart Light Bulb    50000   SAMSUNG     4       2 years     5          
+27      Security Camera     10000   KIA         5       2 years     12         
+28      Electric Scooter    40000   HONDA       6       2 years     15         
+29      Smart Lock          6000    SUPER       10      2 years     15         
+30      Electric Shaver     7000    GILLETTE    12      3 years     20         
